@@ -9,6 +9,20 @@ About me? So...
 
 - If I could choose a place to work, it would be in the middle of the woods in the countryside. 🌳🍃
 
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+  <h3>i'm looking forward to contribute in web projects with community members<h3/>
+ </div>
+<br/>
+<br/>
+<br/>
+
+
+
 <div align="center">
   <a href="https://github.com/SilvaNeto29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvaNeto29&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
