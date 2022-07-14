@@ -1,5 +1,5 @@
 
-## HOWDY! My name is João, i'm a Web developer from Brazil!
+## HOWDY! My name is João, I'm a Web developer from Brazil!
 
 About me? So...
 
@@ -11,15 +11,13 @@ About me? So...
 
 
 <br/>
-<br/>
-<br/>
+
 
 <div align="center">
-  <h3>i'm looking forward to contribute in web projects with community members<h3/>
+  <h3>I'm looking forward to contributing in web projects with community members<h3/>
  </div>
 <br/>
-<br/>
-<br/>
+
 
 
 
