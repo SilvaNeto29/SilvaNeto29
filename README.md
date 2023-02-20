@@ -35,7 +35,8 @@ About me? So...
   <img align="center" alt="silva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="silva-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="silva-boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="[https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
+
 </div>
   
   ##
